@@ -1,4 +1,4 @@
-# Meme-Classification-Using-and-Fine-Tuning-VGG-16-Model
+# Meme Classification Using and Fine Tuning VGG-16 Model
 
 ## Background
 
